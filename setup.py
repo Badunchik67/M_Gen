@@ -12,12 +12,12 @@ from setuptools import setup, find_packages
 NAME = 'audiocraft'
 DESCRIPTION = 'Audio generation research library for PyTorch'
 
-URL = 'https://github.com/facebookresearch/audiocraft'
+URL = 'https://github.com/Bebra777228/M_Gen'
 AUTHOR = 'FAIR Speech & Audio'
 EMAIL = 'defossez@meta.com, jadecopet@meta.com'
 REQUIRES_PYTHON = '>=3.8.0'
 
-for line in open('audiocraft/__init__.py'):
+for line in open('M_Gen/__init__.py'):
     line = line.strip()
     if '__version__' in line:
         context = {}
