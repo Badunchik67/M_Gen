@@ -14,7 +14,7 @@ DESCRIPTION = 'Audio generation research library for PyTorch'
 
 URL = 'https://github.com/facebookresearch/audiocraft'
 AUTHOR = 'FAIR Speech & Audio'
-EMAIL = 'defossez@meta.com, jadecopet@meta.com'
+EMAIL = 'politrees228@gmail.com'
 REQUIRES_PYTHON = '>=3.8.0'
 
 for line in open('audiocraft/__init__.py'):
